@@ -1,0 +1,69 @@
+@font-face {
+			font-family: "AugustaTwoRegular";
+			src: url("../fonts/AugustaTwoRegular/AugustaTwoRegular.eot");
+			src: url("../fonts/AugustaTwoRegular/AugustaTwoRegular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/AugustaTwoRegular/AugustaTwoRegular.woff") format("woff"),
+			url("../fonts/AugustaTwoRegular/AugustaTwoRegular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+	
+@font-face {
+			font-family: "ConsolaMonoBook";
+			src: url("../fonts/ConsolaMonoBook/ConsolaMonoBook.eot");
+			src: url("../fonts/ConsolaMonoBook/ConsolaMonoBook.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/ConsolaMonoBook/ConsolaMonoBook.woff") format("woff"),
+			url("../fonts/ConsolaMonoBook/ConsolaMonoBook.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+@font-face {
+			font-family: "AlexanderRegular";
+			src: url("../fonts/AlexanderRegular/AlexanderRegular.eot");
+			src: url("../fonts/AlexanderRegular/AlexanderRegular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/AlexanderRegular/AlexanderRegular.woff") format("woff"),
+			url("../fonts/AlexanderRegular/AlexanderRegular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+@font-face {
+			font-family: "DejaVuSansBook";
+			src: url("../fonts/DejaVuSansBook/DejaVuSansBook.eot");
+			src: url("../fonts/DejaVuSansBook/DejaVuSansBook.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/DejaVuSansBook/DejaVuSansBook.woff") format("woff"),
+			url("../fonts/DejaVuSansBook/DejaVuSansBook.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+@font-face {
+			font-family: "DejaVuSansBold";
+			src: url("../fonts/DejaVuSansBold/DejaVuSansBold.eot");
+			src: url("../fonts/DejaVuSansBold/DejaVuSansBold.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/DejaVuSansBold/DejaVuSansBold.woff") format("woff"),
+			url("../fonts/DejaVuSansBold/DejaVuSansBold.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "DejaVuSansItalic";
+			src: url("../fonts/DejaVuSansItalic/DejaVuSansItalic.eot");
+			src: url("../fonts/DejaVuSansItalic/DejaVuSansItalic.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/DejaVuSansItalic/DejaVuSansItalic.woff") format("woff"),
+			url("../fonts/DejaVuSansItalic/DejaVuSansItalic.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "DejaVuSansBoldItalic";
+			src: url("../fonts/DejaVuSansBoldItalic/DejaVuSansBoldItalic.eot");
+			src: url("../fonts/DejaVuSansBoldItalic/DejaVuSansBoldItalic.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/DejaVuSansBoldItalic/DejaVuSansBoldItalic.woff") format("woff"),
+			url("../fonts/DejaVuSansBoldItalic/DejaVuSansBoldItalic.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}	
